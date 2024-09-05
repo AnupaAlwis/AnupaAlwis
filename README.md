@@ -18,7 +18,7 @@ I’m eager to collaborate on:
 
 You can connect with me via:
 
-- [LinkedIn](linkedin.com/in/anupa-alwis-155984241)
+- [LinkedIn](https://www.linkedin.com/in/anupa-alwis-155984241/)
 - [Email](mailto:isurajithalwis@gmail.com)
 
 ## ⚡ Fun Fact
