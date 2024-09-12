@@ -16,17 +16,14 @@ I’m eager to collaborate on:
 
 ## 📫 Get in Touch
 
-You can connect with me via:
-
 - [Email](mailto:isurajithalwis@gmail.com)
+
+## 🌍 Connect with me via:
   
 <p align="left">
 <a href="https://www.linkedin.com/in/anupa-alwis-155984241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anupa-alwis-155984241/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/anupaalwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anupaalwis" height="30" width="40" /></a>
 </p>
-
-
-
 
 ## ⚡ Fun Fact
 
