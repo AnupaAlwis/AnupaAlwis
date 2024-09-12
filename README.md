@@ -21,6 +21,15 @@ You can connect with me via:
 - [LinkedIn](https://www.linkedin.com/in/anupa-alwis-155984241/)
 - [Email](mailto:isurajithalwis@gmail.com)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anupa-alwis-155984241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anupa-alwis-155984241/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anupaalwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anupaalwis" height="30" width="40" /></a>
+</p>
+
+
+
+
 ## ⚡ Fun Fact
 
 I love using machine learning models to solve real-world challenges. My first successful project was a **cat vs. dog classifier**, and now I’m diving into **emotion recognition using computer vision**!
